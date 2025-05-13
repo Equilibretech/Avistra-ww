@@ -1,0 +1,44 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "2d67aee5-bde1-4a81-acac-28c15b053aaf",
+        "name": "REST API",
+        "designId": "b8cb1a71-822c-4bca-a741-937bcbc76048",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "97e7b1ae-f88a-4697-849c-ee56ab49bb48": {
+        "id": "f8e348ea-91e3-4536-95b8-a2afa8a5fcae",
+        "name": "JavaScript",
+        "designId": "b8cb1a71-822c-4bca-a741-937bcbc76048",
+        "pluginId": "97e7b1ae-f88a-4697-849c-ee56ab49bb48",
+        "publicData": {}
+    },
+    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
+        "id": "6236f447-130e-4b09-b667-2ac5e36c4439",
+        "name": "NPM",
+        "designId": "b8cb1a71-822c-4bca-a741-937bcbc76048",
+        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
+        "publicData": {
+            "packages": [
+                {
+                    "link": "https://react.dev/",
+                    "name": "react",
+                    "version": "19.1.0",
+                    "instanceName": "react"
+                },
+                {
+                    "link": "https://github.com/xyflow/xyflow#readme",
+                    "name": "reactflow",
+                    "version": "11.11.4",
+                    "instanceName": ""
+                },
+                {
+                    "link": "https://react.dev/",
+                    "name": "react-dom",
+                    "version": "19.1.0",
+                    "instanceName": "reactDOM"
+                }
+            ]
+        }
+    }
+}
